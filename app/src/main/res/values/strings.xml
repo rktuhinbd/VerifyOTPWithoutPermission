@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Read OTP Without Permission</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="next">Next</string>
+    <string name="otp_message">We sent an OTP for verification to</string>
+    <string name="verify_otp">OTP Verification</string>
+    <string name="verifying">Verifying</string>
+    <string name="verified">Verified</string>
+</resources>
